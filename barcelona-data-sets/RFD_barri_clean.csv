@@ -1,0 +1,74 @@
+District;nb_ID;Neighbourhood;RFD;Mean
+1;1;el Raval  ;47.986;71.2
+1;2;el Barri Gòtic  ;16.24;106.1
+1;3;la Barceloneta  ;15.101;79.6
+1;4;Sant Pere. Santa Caterina i la Ribera  ;22.923;99.4
+2;5;el Fort Pienc  ;32.048;106.5
+2;6;la Sagrada Família  ;51.651;101.8
+2;7;la Dreta de l'Eixample  ;44.246;175.9
+2;8;l'Antiga Esquerra de l'Eixample  ;42.512;137.2
+2;9;la Nova Esquerra de l'Eixample  ;58.315;110.2
+2;10; Sant Antoni  ;38.412;104.2
+3;11; el Poble Sec - AEI Parc de Montjuïc  ;40.358;82.2
+3;12; la Marina del Prat Vermell - AEI Zona Franca  ;1.151;40.0
+3;13; la Marina de Port  ;30.622;69.3
+3;14; la Font de la Guatlla  ;10.422;82.9
+3;15; Hostafrancs  ;15.949;99.0
+3;16; la Bordeta  ;18.561;79.0
+3;17; Sants - Badal  ;24.047;81.0
+3;18; Sants  ;41.244;99.0
+4;19; les Corts  ;46.104;120.0
+4;20; la Maternitat i Sant Ramon  ;23.98;114.2
+4;21; Pedralbes  ;12.117;248.8
+5;22; Vallvidrera. el Tibidabo i les Planes  ;4.689;144.1
+5;23; Sarrià  ;25.106;193.6
+5;24; les Tres Torres  ;16.66;215.8
+5;25; Sant Gervasi - la Bonanova  ;25.909;184.6
+5;26; Sant Gervasi - Galvany  ;47.753;192.1
+5;27; el Putxet i el Farró  ;29.617;144.6
+6;28; Vallcarca i els Penitents  ;15.615;112.5
+6;29; el Coll  ;7.428;87.0
+6;30; la Salut  ;13.207;109.9
+6;31; la Vila de Gràcia  ;50.885;104.4
+6;32; el Camp d'en Grassot i Gràcia Nova  ;34.431;105.7
+7;33; el Baix Guinardó  ;25.734;92.0
+7;34; Can Baró  ;9.02;83.3
+7;35; el Guinardó  ;36.538;79.1
+7;36; la Font d'en Fargues  ;9.39;92.5
+7;37; el Carmel  ;31.583;54.2
+7;38; la Teixonera  ;11.634;73.7
+7;39; Sant Genís dels Agudells  ;6.971;84.1
+7;40; Montbau  ;5.171;79.8
+7;41; la Vall d'Hebron  ;5.792;95.8
+7;42; la Clota  ;611;93.5
+7;43; Horta  ;26.743;79.8
+8;44; Vilapicina i la Torre Llobeta  ;25.618;63.8
+8;45; Porta  ;25.046;64.4
+8;46; el Turó de la Peira  ;15.506;51.9
+8;47; Can Peguera  ;2.233;51.5
+8;48; la Guineueta  ;15.247;53.8
+8;49; Canyelles  ;6.863;52.2
+8;50; les Roquetes  ;15.648;49.7
+8;51; Verdun  ;12.368;51.3
+8;52; la Prosperitat  ;26.398;56.0
+8;53; la Trinitat Nova  ;7.271;48.2
+8;54; Torre Baró  ;2.859;46.5
+8;55; Ciutat Meridiana  ;10.369;38.6
+8;56; Vallbona  ;1.379;40.9
+9;57; la Trinitat Vella  ;10.006;47.1
+9;58; Baró de Viver  ;2.539;68.9
+9;59; el Bon Pastor  ;12.582;65.1
+9;60; Sant Andreu  ;57.223;77.7
+9;61; la Sagrera  ;29.031;77.1
+9;62; el Congrés i els Indians  ;14.141;75.1
+9;63; Navas  ;22.171;81.6
+10;64;. el Camp de l'Arpa del Clot  ;38.371;81.7
+10;65;. el Clot  ;27.089;83.6
+10;66;. el Parc i la Llacuna del Poblenou  ;15.204;100.4
+10;67;. la Vila Olímpica del Poblenou  ;9.404;164.2
+10;68;. el Poblenou  ;33.931;99.9
+10;69;. Diagonal Mar i el Front Marítim del Poblenou  ;13.71;150.1
+10;70;. el Besòs i el Maresme  ;22.893;60.4
+10;71;. Provençals del Poblenou  ;20.649;102.3
+10;72;. Sant Martí de Provençals  ;26.187;67.4
+10;73;. la Verneda i la Pau  ;28.725;57
